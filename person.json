@@ -1,0 +1,11 @@
+{
+    "name": "He Jianfeng",
+    "age": 31,
+    "city": "Shanghai",
+    "hasChildren": false,
+    "titles": [
+        "engineer",
+        "developer",
+        "programmer"
+    ]
+}
