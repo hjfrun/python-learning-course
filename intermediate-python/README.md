@@ -1,3 +1,3 @@
 # Intermediate Python Course
 
-Links: https://www.youtube.com/watch?v=HGOBQPFzWKo
+Youtube Link: https://www.youtube.com/watch?v=HGOBQPFzWKo
