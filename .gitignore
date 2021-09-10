@@ -1,1 +1,3 @@
 venv
+pandas/data
+.ipynb_checkpoints
