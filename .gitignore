@@ -1,3 +1,4 @@
 venv
 pandas/data
+pandas/analysis/Sales_Data
 .ipynb_checkpoints
